@@ -1,2 +1,2 @@
 # Rust-Project
-Rust language based DS, DP, ML &amp; AI
+Rust language based projects on DS (Data Science), DP (Deep Learning), ML (Machine Learning)&amp; AI (Artificial Intelligence).
