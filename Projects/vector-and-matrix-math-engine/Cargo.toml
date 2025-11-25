@@ -1,0 +1,6 @@
+[package]
+name = "vector-and-matrix-math-engine"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
