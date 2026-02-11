@@ -3,6 +3,6 @@ Rust language based Projects on DS (`Data Science`), DP (`Deep Learning`), ML (`
 
 ## Projects Listing
 
-- Vector and Matrix Math Engine
+- [Vector and Matrix Math Engine](#Projects/vector-and-matrix-math-engine)
 
-- Deep Fake Detection System
+- [Deep Fake Detection System](#Projects/deepfake_detection_system/deepfake)
